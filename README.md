@@ -2,8 +2,18 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18413518&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+The underlying concept behind version control entails helping the user track changes to ther files (especially code) over time. Github is therefore a popular tool for managing versions of code because it is a cloud-based platform where developers can store and manage their Git repositories. Users that utilize Github therefore have the ability to collaborate, review and share their projects with the world.
+version control plays a fundamental role in maintaining project integrity by keeping a detailed history of the changes the user makes to a project and also enables the user to go back to the original work incase any errors occur while continuing with the work in future.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+The process of setting up a new repository on Github entails the following steps.
+Step_1 ("first register a github account using your email, then register a username and password")
+Step 2 ("Log into the Github account using the email and password you used while creating your github account")it is important to remember your username and password to be able to lo into your account to create a repository.
+Step_3 ("After you log into github account, you will see an additional sign on the top panel of the github account, click on the + sign to create a new repository")
+Step_3 (On the create new repository page, enter the name of the Github repository (and give the repository a description) 
+It is important to make sure you choose well either to make your repository private or public before
+then click create repository button on the bottom right side of the page.
+
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
